@@ -1,4 +1,4 @@
-deployed link - [Website]([url](https://plagiarism-checker-gilt.vercel.app/))
+deployed link - https://plagiarism-checker-gilt.vercel.app/
 
 # Professional Plagiarism Checker
 
