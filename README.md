@@ -1,3 +1,5 @@
+deployed link - [Website]([url](https://plagiarism-checker-gilt.vercel.app/))
+
 # Professional Plagiarism Checker
 
 A modern, professional plagiarism detection tool built with Next.js, TypeScript, and Tailwind CSS. Features advanced document analysis with real-time similarity detection using sophisticated k-gram algorithms.
@@ -97,18 +99,6 @@ plagiarism-checker/
 ├── tsconfig.json
 └── next.config.js
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Future Enhancements
 
